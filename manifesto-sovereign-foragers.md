@@ -11,9 +11,9 @@ There need to be a shift in our internal gravity—moving from a state of waitin
 ## 1. The Core Thesis: "The Map is Burnt, but the Compass is Internal"
 The primary takeaway is that the "Large Scale Systems" (corporations, governments, traditional education) are no longer capable of protecting the individual. Therefore, the only true security is Self-Sovereignty.
 
-The Old Way: Relying on the stability of the "Patch" (the job, the pension, the status quo).
+- **The Old Way**: Relying on the stability of the "Patch" (the job, the pension, the status quo).
 
-The New Way: Relying on your ability to "Forage" (adaptability, mental models, and technical leverage).
+- **The New Way**: Relying on your ability to "Forage" (adaptability, mental models, and technical leverage).
 
 ## 2. The Practical Philosophy: Antifragility
 The reader should leave understanding that they don't need to predict the future to profit from it. By building a life based on Optionality—having multiple paths, decentralized income, and a "Latticework" of skills—they become like a forest fire: the wind (chaos/AI/change) doesn't blow them out; it fans their flames.
